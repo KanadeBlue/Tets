@@ -1,0 +1,14 @@
+{
+  "name": "tets",
+  "version": "1.0.0",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "buffer": "^6.0.3"
+  }
+}
